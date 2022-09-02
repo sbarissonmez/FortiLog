@@ -4,7 +4,7 @@ import sqlite3
 import socketserver
 import pyparsing as pp
 
-sqlite_file = 'fg_log_db.sqlite'    # name of the sqlite database file
+sqlite_file = 'forti_log_db.sqlite'    # name of the sqlite database file
 HOST, PORT = "0.0.0.0", 514
 POLL_INTERVAL = 0.5
 
