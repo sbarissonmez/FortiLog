@@ -1,0 +1,4 @@
+socketserver
+sqlite3
+pyparsing
+logging
